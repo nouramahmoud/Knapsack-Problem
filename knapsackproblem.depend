@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570993772 source:c:\users\user\desktop\knapsackproblem\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
